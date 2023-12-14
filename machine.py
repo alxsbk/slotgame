@@ -64,6 +64,7 @@ class Machine:
 
 
     def update (self, delta_time):
+        self.cooldown()
         self.input()
         self.draw_reels(delta_time)
         for reel in self.reel_list:
