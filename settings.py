@@ -19,3 +19,6 @@ symbols = {
     'seven': f"{SYM_PATH}/0_seven.png",
     'telephone': f"{SYM_PATH}/0_telephone.png"
 }
+
+
+
